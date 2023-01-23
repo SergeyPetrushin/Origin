@@ -1,0 +1,12 @@
+index.html_old
+tmp/
+__MACOSX
+_old
+_backup
+*_backup
+__MACOSX
+*_old
+Thumbs.db
+.DS_Store
+*old
+*backup
